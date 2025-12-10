@@ -24,9 +24,11 @@
 
 ---
 
-<img align="right" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-
 ## `> SYSTEM.INIT("ABOUT_ME")` 🕹️
+
+<table>
+<tr>
+<td width="60%">
 
 ```javascript
 const danielSnell = {
@@ -45,7 +47,14 @@ const danielSnell = {
 };
 ```
 
-<br clear="right"/>
+</td>
+<td width="40%" align="center">
+
+<img width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -55,18 +64,7 @@ const danielSnell = {
 
 ### 🎮 CLOUD & PLATFORM ACHIEVEMENTS UNLOCKED 🎮
 
-</div>
-
-```
- ██████╗███████╗██████╗ ████████╗██╗███████╗██╗ ██████╗ █████╗ ████████╗███████╗
-██╔════╝██╔════╝██╔══██╗╚══██╔══╝██║██╔════╝██║██╔════╝██╔══██╗╚══██╔══╝██╔════╝
-██║     █████╗  ██████╔╝   ██║   ██║█████╗  ██║██║     ███████║   ██║   █████╗  
-██║     ██╔══╝  ██╔══██╗   ██║   ██║██╔══╝  ██║██║     ██╔══██║   ██║   ██╔══╝  
-╚██████╗███████╗██║  ██║   ██║   ██║██║     ██║╚██████╗██║  ██║   ██║   ███████╗
- ╚═════╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝     ╚═╝ ╚═════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝
-```
-
-<div align="center">
+[![CERTIFICATE](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=40&duration=1&pause=99999&color=00FFFF&center=true&vCenter=true&width=500&height=60&lines=CERTIFICATE)](https://git.io/typing-svg)
 
 | 🏆 ACHIEVEMENT | 📜 CERTIFICATION | 🎯 ISSUER | ⏰ VALID |
 |:---:|:---|:---:|:---:|
