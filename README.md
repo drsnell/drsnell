@@ -1,20 +1,14 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=200&section=header&text=DANIEL%20SNELL&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CLOUD%20ENGINEER&descAlignY=55&descSize=20" width="100%">
+
 ```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║   ██████╗  █████╗ ███╗   ██╗██╗███████╗██╗         ███████╗███╗   ██╗███████╗██╗     ██╗     ║
-║   ██╔══██╗██╔══██╗████╗  ██║██║██╔════╝██║         ██╔════╝████╗  ██║██╔════╝██║     ██║     ║
-║   ██║  ██║███████║██╔██╗ ██║██║█████╗  ██║         ███████╗██╔██╗ ██║█████╗  ██║     ██║     ║
-║   ██║  ██║██╔══██║██║╚██╗██║██║██╔══╝  ██║         ╚════██║██║╚██╗██║██╔══╝  ██║     ██║     ║
-║   ██████╔╝██║  ██║██║ ╚████║██║███████╗███████╗    ███████║██║ ╚████║███████╗███████╗███████╗║
-║   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝    ╚══════╝╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝║
-║                                                                               ║
-║                    ░█▀▀░█░░░█▀█░█░█░█▀▄░░░█▀▀░█▀█░█▀▀░▀█▀░█▀█░█▀▀░█▀▀░█▀▄       ║
-║                    ░█░░░█░░░█░█░█░█░█░█░░░█▀▀░█░█░█░█░░█░░█░█░█▀▀░█▀▀░█▀▄       ║
-║                    ░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀▀░░░░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀░▀       ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
+   ██████╗  █████╗ ███╗   ██╗██╗███████╗██╗         ███████╗███╗   ██╗███████╗██╗     ██╗     
+   ██╔══██╗██╔══██╗████╗  ██║██║██╔════╝██║         ██╔════╝████╗  ██║██╔════╝██║     ██║     
+   ██║  ██║███████║██╔██╗ ██║██║█████╗  ██║         ███████╗██╔██╗ ██║█████╗  ██║     ██║     
+   ██║  ██║██╔══██║██║╚██╗██║██║██╔══╝  ██║         ╚════██║██║╚██╗██║██╔══╝  ██║     ██║     
+   ██████╔╝██║  ██║██║ ╚████║██║███████╗███████╗    ███████║██║ ╚████║███████╗███████╗███████╗
+   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝    ╚══════╝╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝
 ```
 
 ### 🌆 `WELCOME TO THE GRID` 🌆
@@ -24,7 +18,7 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 [![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-FF1493?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://www.linkedin.com/in/daniel-richard-snell)
-[![Profile Views](https://komarev.com/ghpvc/?username=daniel-richard-snell&style=for-the-badge&color=FF00FF)](https://github.com/daniel-richard-snell)
+[![Profile Views](https://komarev.com/ghpvc/?username=drsnell&style=for-the-badge&color=FF00FF)](https://github.com/drsnell)
 
 </div>
 
@@ -140,10 +134,10 @@ const danielSnell = {
 
 ## 📊 `STATS.RENDER()` 📊
 
-<img src="https://github-readme-stats.vercel.app/api?username=daniel-richard-snell&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF" width="49%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-richard-snell&theme=synthwave&hide_border=true&background=0D1117&stroke=FF00FF&ring=00FFFF&fire=FFFF00&currStreakLabel=FF00FF" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=drsnell&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF" width="49%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=drsnell&theme=synthwave&hide_border=true&background=0D1117&stroke=FF00FF&ring=00FFFF&fire=FFFF00&currStreakLabel=FF00FF" width="49%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-richard-snell&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF" width="40%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drsnell&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF" width="40%">
 
 </div>
 
