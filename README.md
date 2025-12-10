@@ -163,7 +163,7 @@ const danielSnell = {
 `☁️ Cloud Architecture` • `🔐 Security Solutions` • `🌍 International Tech Opportunities`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF00FF?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://www.linkedin.com/in/daniel-richard-snell)
-[![Email](https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=FF00FF)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=FF00FF)](mailto:d.snell@reply.de)
 
 ---
 
