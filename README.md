@@ -128,15 +128,10 @@ const danielSnell = {
 
 ## 📊 `STATS.RENDER()` 📊
 
-```
-⬛⬛🟪🟪🟪⬛⬛🟪🟪🟪🟪⬛🟪🟪🟪🟪🟪⬛🟪🟪🟪⬛⬛🟪🟪🟪🟪⬛
-⬛🟪🟪🟪🟪🟪⬛🟪🟪🟪🟪⬛🟪🟪🟪🟪🟪⬛🟪🟪🟪🟪⬛🟪🟪🟪🟪🟪
-⬛🟪🟪🟪🟪🟪⬛🟪🟪🟪🟪⬛🟪🟪🟪🟪🟪⬛🟪🟪🟪🟪⬛🟪🟪🟪🟪🟪
-⬛⬛🟪🟪🟪🟪⬛🟪🟪🟪🟪⬛⬛🟪🟪🟪⬛⬛🟪🟪🟪🟪⬛🟪🟪🟪🟪🟪
-⬛⬛⬛🟪🟪🟪⬛🟪🟪🟪🟪⬛⬛⬛🟪⬛⬛⬛🟪🟪🟪🟪⬛🟪🟪🟪🟪🟪
-⬛⬛⬛⬛🟪🟪⬛🟪🟪🟪🟪⬛⬛⬛⬛⬛⬛⬛⬛🟪🟪🟪⬛⬛🟪🟪🟪⬛
-⬛⬛⬛⬛⬛🟪⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟪⬛⬛⬛⬛⬛⬛⬛
-```
+<img src="https://github-readme-stats.vercel.app/api?username=drsnell&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF" width="49%" alt="GitHub Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=drsnell&theme=synthwave&hide_border=true&background=0D1117&stroke=FF00FF&ring=00FFFF&fire=FFFF00&currStreakLabel=FF00FF" width="49%" alt="GitHub Streak">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drsnell&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF" width="40%" alt="Top Languages">
 
 ### 🎯 ACTIVE FOCUS AREAS
 
