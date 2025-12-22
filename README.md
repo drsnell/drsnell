@@ -75,6 +75,7 @@ const danielSnell = {
 | ![AWS](https://img.shields.io/badge/★★☆-00FFFF?style=flat-square) | **AWS Cloud Practitioner** | `AMAZON` | `2022-2027` |
 | ![Terraform](https://img.shields.io/badge/★★★-FF6EC7?style=flat-square) | **Terraform Associate (003)** | `HASHICORP` | `2023-2027` |
 | ![GitHub](https://img.shields.io/badge/★★★-FFFF00?style=flat-square) | **GitHub Copilot** | `MICROSOFT` | `2025-2027` |
+| ![GitHub](https://img.shields.io/badge/★★★-FFFF00?style=flat-square) | **GitHub Actions** | `MICROSOFT` | `2025-2027` |
 | ![Security](https://img.shields.io/badge/★★☆-00FF00?style=flat-square) | **Cybershield Visa** | `CYBERSEC` | `2024` |
 | ![Skills](https://img.shields.io/badge/★☆☆-FFA500?style=flat-square) | **Feedback Literacy** | `SYSTEM-MISCHER` | `2025` |
 
